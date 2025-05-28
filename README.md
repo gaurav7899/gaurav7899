@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Gaurav Kumar, a BTech student in CSE  at Swami VivekaNand Subharti University.<br>💻 Skilled in Python Full Stack Development, Python, SQL, Django, Django Rest Framework,HTML, CSS, JavaScripts, React.<br>🎨 Passionate about Coding and new desgin.<br>🎮 Enjoy coding challenges.<br>🚀 Aiming for web development, backend engineering, and exploring new technologies.
+👋 Hi, I'm Gaurav Kumar<br>💻 Skilled in Python Full Stack Development, Python, SQL, Django, Django Rest Framework,HTML, CSS, JavaScripts, React.<br>🎨 Passionate about Coding and new desgin.<br>🎮 Enjoy coding challenges.<br>🚀 Aiming for web development, backend engineering, and exploring new technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-kumar9008) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravkumar54030@gmail.com) 
